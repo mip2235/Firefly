@@ -18,7 +18,7 @@ export const sponsorConfig: SponsorConfig = {
 	showComment: true,
 
 	// 是否在文章详情页底部显示打赏按钮
-	showButtonInPost: true,
+	showButtonInPost: false,
 
 	// 打赏方式列表
 	methods: [
@@ -37,7 +37,7 @@ export const sponsorConfig: SponsorConfig = {
 			qrCode: "/assets/images/sponsor/wechat.png",
 			link: "",
 			description: "使用 微信 扫码打赏",
-			enabled: true,
+			enabled: false,
 		},
 		{
 			name: "ko-fi",
