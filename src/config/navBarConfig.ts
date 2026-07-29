@@ -102,7 +102,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
+				url: "https://qm.qq.com/cgi-bin/qm/qr?k=z4Zb6CY-Hz2iYsjl6eIM1ezl3gXPJ8s1&jump_from=webapi&authKey=OnZppNnKI1BSyeRcEq8DQJHkhbwjtbvz8YxKVUZVPlZRCbHhz+n9MkUWEF4wxI98",
 				external: false,
 				icon: "fa7-brands:qq",
 			},
