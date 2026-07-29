@@ -24,26 +24,26 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/q/ZGsFa8qX2G",
+			url: "https://qm.qq.com/cgi-bin/qm/qr?k=ZxnDa0hYbsIk",
 			showName: false,
 		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
-			showName: false,
-		},
+		//{
+		//	name: "GitHub",
+		//  icon: "fa7-brands:github",
+		//	url: "https://github.com/CuteLeaf",
+		//	showName: false,
+	    // },
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "MIP2235@163.COM",
 			showName: false,
 		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+		//{
+		//	name: "RSS",
+		//	icon: "fa7-solid:rss",
+		//	url: "/rss/",
+		//	showName: false,
+		//},
 	],
 };
