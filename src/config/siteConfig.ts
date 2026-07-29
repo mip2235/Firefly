@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "QWQ",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "#",
 
 	// 站点描述
 	description:
@@ -214,7 +214,7 @@ export const siteConfig: SiteConfig = {
 		// Bilibili 配置
 		bilibili: {
 			// 你的 Bilibili 用户 UID
-			uid: "38932988",
+			uid: "260487556",
 		},
 		// TMDB 配置（可选，需要翻墙）
 		// tmdb: {
