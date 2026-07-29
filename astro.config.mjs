@@ -240,7 +240,7 @@ export default defineConfig({
 					return false;
 				}
 				if (pathname === "/sponsor/" && !siteConfig.pages.sponsor) {
-					return false;
+					return true;
 				}
 				if (pathname === "/guestbook/" && !siteConfig.pages.guestbook) {
 					return false;
