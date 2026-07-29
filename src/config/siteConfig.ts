@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "QWQ",
 
 	// 站点 URL
-	site_url: "#",
+	site_url: "https://firefly.cuteleaf.cn",
 
 	// 站点描述
 	description:
