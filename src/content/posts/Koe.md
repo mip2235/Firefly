@@ -7,4 +7,5 @@ tags: ["bl"]
 category: CG
 draft: false
 ---
-(./images/199.jpeg)
+
+![后台示例](./images/firefly-background.png)
