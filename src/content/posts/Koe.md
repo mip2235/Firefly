@@ -7,4 +7,4 @@ tags: ["bl"]
 category: CG
 draft: false
 ---
-
+image: ./images/199.jpeg
